@@ -24,9 +24,6 @@ chflags -R nouchg directory
 ```
 
 
-
-```
-
 This command grabs tehe InstanceID, Instance Name, PriavteIP and VPC
 
 ```
@@ -34,4 +31,4 @@ aws ec2 describe-instances \
     --filters Name=tag-key,Values=Name \
     --query 'Reservations[*].Instances[*].{Instance:InstanceId,Vpc:VpcId,PrivateIP:PrivateIpAddress,Name:Tags[?Key==`Name`]|[0].Value}' --output table >> instances.tsv
 
-
+```
