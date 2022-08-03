@@ -24,7 +24,7 @@ chflags -R nouchg directory
 ```
 
 
-This command grabs tehe InstanceID, Instance Name, PriavteIP and VPC
+This command grabs the InstanceID, Instance Name, PrivateIP and VPC
 
 ```
 aws ec2 describe-instances \
