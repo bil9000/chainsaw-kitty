@@ -1,5 +1,18 @@
 # Predictions
 ## For the Record - (Check the git commit history if you'd like)
+
+### Here we go again. These are for 2027. Again, don't shoot the messenger, these are just ideas.  Cassandra takes the mic. (2026-09-26)
+
+1. The talk about AI guardrails will finally stop being just talk and there will be a discussion about making it ethical.  That is because something `bad` will happen. I'm not looking forward to it.  I have thoughts about this and I [wrote about them](https://billykoplitz.com/do-not-harm-robots.html). Not that it matters. 🎻 This `bad` thing will result in a serious uptick in conversations about AI and proposed legislation in the USA.  However, since stalemate is what the parties actually want, we will see new legislation in the EU and in the USA it will take until *2028* to pass federal statutes.
+2. SCADA/ICS hacks will rise.  (Could be the cause of the `bad` thing.) 
+3. There will be disruptions to food supply. 
+4. There will be no  pandemics *named* in the states. People will get sick - but it will be un-named.  A no-name virus, probably blamed on China.
+5. 2027 will be the year that dating apps begin to be destroyed by AI agents. Bots 🤖 swiping on bots 🤖 until they get each other's credit card numbers. 💳 🤣
+6. Terrible software will be deployed (another possible cause of the `bad` thing, though purely accidental).  Software has now become something everyone can do using AI. It is as if everyone in the world woke up with scissors ✂️ for hands and so everyone decided they should be barbers 💈.  Not so! You still need training in how to use scissors!
+7. Inflation will be very bad in 2027 (CPI over 6.5%).  This is kinda obvious today based on the prices of food and diesel. However, once more people have AI doing their work for them - the entire shell game of trading time for coins will begin to fall apart. Which brings me to....
+8. People will get increasingly bad at using their new free time wisely. Drug, drinking, gambling, vice in general will start to peak and then people will calm down by the end of the year.  Go long bullets and whiskey until Q4 2027 😉.
+9. Finally and this is a cop out... things feel like they are about to shift pretty drastically so I predict.... unpredictability 🤣. Bonne chance, mes amis.
+
 ### These predictions are for 2024, made on December 14, 2023. None of these predictions show my intent or desires about anything.  These are all gut feelings, I'd love to be wrong about many of them. 
 
 1. The Middle East.  There will not be nuclear war, or the end of the world.  However, the fighting will not go as easily as expected for either side.  The humanitarian crises will get worse before it gets better.  This will also bleed into the surrounding countries of Egypt and Lebanon.  It is not going to be pretty for anyone unfortunately.  This will also spill out into other non-neighboring countries as angry people ramp up activism and terrorism in order to make their opinions known, in the least fruitful and beneficial ways possible. 
