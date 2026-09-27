@@ -9,7 +9,7 @@ find .  -type f -print0 | xargs -0 -I%%% cp %%% flat
 ```
 or this one seems to work better:
 ```
-find Attachments/ -mindepth 2 -type f -exec mv  '{}'ttachments/ ';'
+find Attachments/ -mindepth 2 -type f -exec mv -n '{}' Attachments/ ';'
 ```
 ## Recursivley Lock Or Unlock Files and Folders 
 
